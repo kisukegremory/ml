@@ -2,4 +2,7 @@
 **/.ipynb_checkpoints
 GUIDEBOOK.md
 *.csv
+*.jpeg
+*jpg
 running-simulation
+venv/
